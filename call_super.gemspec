@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
 
   spec.name                      = 'call_super'
   spec.rubyforge_project         = 'call_super'
-  spec.version                   = '0.0.1'
+  spec.version                   = '0.0.2'
 
   spec.summary                   = "Add calls to super in fundamental Object methods so modules can be used to include/extend."
   spec.description               = "Cause Object#inherited, Module#extended, Module#extend_object, Module#included, Module#append_features to call super if defined."

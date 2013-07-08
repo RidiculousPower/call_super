@@ -8,3 +8,6 @@
 #
 module ::CallSuper
 end
+
+require_relative '../lib_ext/class.rb'
+require_relative '../lib_ext/module.rb'
