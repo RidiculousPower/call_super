@@ -16,6 +16,7 @@ Cause Object#inherited, Module#extended, Module#extend_object, Module#included, 
 
 # Usage #
 
+```ruby
 Class.extend( SomeModuleDefining#inherited )
 Class.include( SomeModuleDefining#inherited )
 
@@ -28,6 +29,7 @@ module.extend( SomeModuleDefining#append_features )
 module.extend( SomeModuleDefining#included )
 module.extend( SomeModuleDefining#extend_object )
 module.extend( SomeModuleDefining#extended )
+```ruby
 
 # License #
 
