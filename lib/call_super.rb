@@ -11,3 +11,4 @@ end
 
 require_relative '../lib_ext/class.rb'
 require_relative '../lib_ext/module.rb'
+require_relative '../lib_ext/object.rb'
